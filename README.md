@@ -5,4 +5,4 @@
 
 ![image](drawKSP/drawKSP.jpg)
 
-<div align="center">Draws lines near the cockpit of my Jet aircraft <a href="https://github.com/KsNewSpace/Ks_Craft_Files">S2P-880-2R</a></div>
+<div align="center">Draws lines near the cockpit of my Jet aircraft <a href="https://github.com/KsNewSpace/Ks_Craft_Files">AS2P-880-2R</a></div>
